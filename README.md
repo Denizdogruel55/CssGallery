@@ -15,7 +15,3 @@ Projede **Flexbox** yapısı kullanılmış ve resimler düzenli bir şekilde hi
 ```bash
 ResimGalerisi/
 │── index.html
-│── css/
-│   └── style.css
-│── img/
-│   └── resim1.jpg, resim2.jpg, resim3.jpg ...
